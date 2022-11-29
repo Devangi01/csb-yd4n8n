@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devangi01.github.io/csb-yd4n8n/static/css/main.0e2b696a.chunk.css",
+    "main.js": "https://devangi01.github.io/csb-yd4n8n/static/js/main.73e0e3ce.chunk.js",
+    "main.js.map": "https://devangi01.github.io/csb-yd4n8n/static/js/main.73e0e3ce.chunk.js.map",
+    "runtime-main.js": "https://devangi01.github.io/csb-yd4n8n/static/js/runtime-main.05a759aa.js",
+    "runtime-main.js.map": "https://devangi01.github.io/csb-yd4n8n/static/js/runtime-main.05a759aa.js.map",
+    "static/js/2.1b5a2b9b.chunk.js": "https://devangi01.github.io/csb-yd4n8n/static/js/2.1b5a2b9b.chunk.js",
+    "static/js/2.1b5a2b9b.chunk.js.map": "https://devangi01.github.io/csb-yd4n8n/static/js/2.1b5a2b9b.chunk.js.map",
+    "index.html": "https://devangi01.github.io/csb-yd4n8n/index.html",
+    "static/css/main.0e2b696a.chunk.css.map": "https://devangi01.github.io/csb-yd4n8n/static/css/main.0e2b696a.chunk.css.map",
+    "static/js/2.1b5a2b9b.chunk.js.LICENSE.txt": "https://devangi01.github.io/csb-yd4n8n/static/js/2.1b5a2b9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05a759aa.js",
+    "static/js/2.1b5a2b9b.chunk.js",
+    "static/css/main.0e2b696a.chunk.css",
+    "static/js/main.73e0e3ce.chunk.js"
+  ]
+}
